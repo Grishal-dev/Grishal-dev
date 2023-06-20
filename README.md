@@ -1,20 +1,16 @@
 
-# Hello World 👋 It's my Git Hub page
+# Hello 👋 It's my Git Hub page
 
 <br/>
 
 <br />
 
-Hi,I'm python developer🙌
+Hi,I'm a developer🙌
 
 **My about info:**
 
-- 🔭 I’m currently Student at HypeDev.
 - 🌱 I’m currently learning Python.
 - 👯 Part of Developer Community.
-- 📫 How to reach me:
-- ⚡ Check out my recent Blogs
-- 📝Portfolio
 - ✨ I can draw too.
 
 **Languages and Tools:**
